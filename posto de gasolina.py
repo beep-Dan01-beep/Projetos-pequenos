@@ -1,10 +1,12 @@
+#Declaração das variaveis
 alcool = float(3.99)
 gasolina = float(5.89)
 desconto = float (0.0)
 
-
+#Estrutura de decisão
 tipo = str (input("Qual o tipo de gasolina?\n Digite A para Álcool ou G para Gasolina\n"))
 litros = float (input("Quantos litros seram usados?\n"))
+
 
 if (tipo == 'A' and litros <=20):
    
