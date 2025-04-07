@@ -1,4 +1,4 @@
-Estudos da faculdade\n
+Estudos da faculdade
 
 Posto_de_gasolina.py = Codigo que faz o calculo do pagamento de um posto de gasolina.
 
